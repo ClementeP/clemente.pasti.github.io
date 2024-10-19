@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://clemente.pasti.github.io/al-folio/sitemap.xml
+Sitemap: https://clemente.pasti.github.io/sitemap.xml
